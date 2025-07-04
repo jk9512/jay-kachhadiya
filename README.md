@@ -19,7 +19,6 @@ With hands-on experience in both **frontend** and **backend** development, I enj
 - ✔️ ASP.NET Core MVC / Web API
 - ✔️ Entity Framework Core
 - ✔️ SQL Server
-- ✔️ LINQ
 
 #### Frontend
 - ✔️ React.js
@@ -37,8 +36,7 @@ With hands-on experience in both **frontend** and **backend** development, I enj
 
 ### 🌱 Currently Exploring
 - Microservices with .NET
-- Azure DevOps
-- Node.js for backend services
+- .NET for backend services
 
 ---
 
